@@ -1,2 +1,2 @@
 # Google-Clone
-Repositorio de projecto Clon de Google
+Repositorio de proyecto Clon de Google
